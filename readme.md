@@ -1,6 +1,6 @@
 # Turtlebot_Final_Project
 
-assignment running instructions:
+##assignment running instructions:
 0) put the robot paramters in turtlebotbot/navigation/params folder.
 
 1) run the following command in terminal .
