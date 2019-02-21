@@ -1,8 +1,10 @@
 # Turtlebot_Final_Project
 
-##assignment running instructions:
-0) put the robot paramters in turtlebotbot/navigation/params folder.
+assignment running instructions:
 
+
+
+0) put the robot paramters in turtlebotbot/navigation/params folder.
 1) run the following command in terminal .
 	1.1) ssh turtlebot@turtlebot_ip  #when turtlebot_ip is the robot ip
 	1.2) export ROS_IP=turtlebot_ip #define ROS_IP and check you defined it right with echo.
