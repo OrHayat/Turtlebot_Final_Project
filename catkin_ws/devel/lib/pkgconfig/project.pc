@@ -1,0 +1,8 @@
+prefix=/home/arl1/catkin_ws/devel
+
+Name: project
+Description: Description of project
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/arl1/catkin_ws/devel/lib 
+Requires: 
